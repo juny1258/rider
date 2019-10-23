@@ -1,7 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="accentColor" value="616161" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="48fff8" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="-5975cf27:16df98893ea:-8000" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
