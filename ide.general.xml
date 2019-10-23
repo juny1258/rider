@@ -21,5 +21,10 @@
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
